@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<style>
+    .text {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .image{
+        text-align: center;
+    }
+</style>
+<body style="background-color: black; color: white; font-family: Arial, sans-serif;">
+<
+    <h1 style="color: red; text-align: center;">RESUME</h1>
+
+    <div class="text" h2 style="color: green;">PERSONAL INFORMATION</h2>
+        </div>
+
+    <div class="image"><img src="./ava.jpeg" height="150"> 
+    </div>
+    <p><strong>NAME:</strong> Avanti Kandekar</p>
+    <p><strong>EMAIL:</strong> Avantikandekar68@gmail.com</p>
+    <p><strong>MOBILE:</strong> 8484043856</p>
+
+    <h2>Education</h2>
+    <p><strong>B.Tech - Pimpri Chinchwad University</strong></p>
+
+    <table border="1" width="100%">
+        <tr>
+            <th>Year</th>
+            <th>CGPA</th>
+            <th>Institution</th>
+        </tr>
+        <tr>
+            <td>1st Year</td>
+            <td>9.3</td>
+            <td>PCU</td>
+        </tr>
+        <tr>
+            <td>2nd Year</td>
+            <td>9.9</td>
+            <td>PCU</td>
+        </tr>
+        <tr>
+            <td>3rd Year</td>
+            <td>9.1</td>
+            <td>PCU</td>
+        </tr>
+        <tr>
+            <td>4th Year</td>
+            <td>9.0</td>
+            <td>PCU</td>
+        </tr>
+    </table>
+
+    <h2>Experience</h2>
+    <p>Data Scientist at JSW (2018-2020)</p>
+    <p>Finance Manager at RTSK (2020-2025)</p>
+
+    <h2>COMPUTER SCIENCE ENGINEERING</h2>
+    <p>Pimpri Chinchwad University (2024-2028)</p>
+
+    <h2>DATA SCIENCE</h2>
+    <ul>
+        <li>Artificial Intelligence</li>
+        <li>Machine Learning</li>
+    </ul>
+
+</body>
+</html>
+
