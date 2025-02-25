@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prime Video - Bahubali</title>
+</head>
+<style>
+    .text {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .image{
+        text-align: center;
+    }
+</style>
+<body style="background-color: #4d2427; color: white; font-family: Arial, sans-serif;">
+
+    <h1>Prime Video - Bahubali</h1>
+    <div class="image"><img src="./ava1.jpg" height="200"> 
+    </div>
+
+    <p><a href="#" style="color:blue;">netflix</a></p>
+
+    <h2>1. <em>bahubali</em></h2>
+    <p><strong>Description:</strong></p>
+    <p>Amarendra Baahubali, the crown prince of Mahishmati (Telugu) / Magizhmathi (Tamil), 
+        nephew of Sivagami and Bijjaladeva, father of Mahendra Baahubali and adored member of the kingdom.</p>
+
+    <p><strong>Cast:</strong></p>
+    <ul>
+        <li>Vikramadeva</li>
+        <li>Rajkummar Rao</li>
+        <li>Bijjaladeva</li>
+        <li>Vikramadeva</li>
+        <li>Aparshakti Khurana</li>
+    </ul>
+
+    <p><strong>Studio:</strong></p>
+    <ul>
+        <li>Jio Studios</li>
+        <li>Maddock Films</li>
+    </ul>
+
+    <p><strong>Director:</strong></p>
+    <ul>
+        <li>S. S. Rajamouli</li>
+    </ul>
+
+    <p><strong><a href="#" style="color: purple;">Other information:</a></strong></p>
+    <p><a href="#" style="color: purple;">bahubali</a></p>
+
+</body>
+</html>
+
